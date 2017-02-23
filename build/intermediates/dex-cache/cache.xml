@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ASUS\AndroidStudioProjects\TestConnection\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="C:\Users\ASUS\AndroidStudioProjects\TestConnection\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1-3264d9ba613548ed30d3084691f6f7f1ebdf7950.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS\AndroidStudioProjects\TestConnection\app\libs\gson-2.2.4.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\ASUS\AndroidStudioProjects\TestConnection\app\build\intermediates\pre-dexed\debug\gson-2.2.4-ad7db8d6cf284a5df0070cf4cdb95f22fca99342.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS\AndroidStudioProjects\TestConnection\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="C:\Users\ASUS\AndroidStudioProjects\TestConnection\app\build\intermediates\pre-dexed\debug\classes-59d7e400cf3ececbcd91460ffccc1ea6a59642da.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="C:\Users\ASUS\AndroidStudioProjects\TestConnection\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1-01569dc15642e06b16359dcdda7bb3c629bdfea6.jar" />
+    </item>
+    <item
+        jar="C:\Users\ASUS\AndroidStudioProjects\TestConnection\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="C:\Users\ASUS\AndroidStudioProjects\TestConnection\app\build\intermediates\pre-dexed\debug\classes-f3ff38ff4c73f9dc7eda461b2ee25e0c33cbe331.jar" />
+    </item>
+
+</items>
